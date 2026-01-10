@@ -1,20 +1,13 @@
-#Task 1: Basic Mathematical Operations on Two Numbers
+#Task 1: Check if a Number is Even or Odd
 
-#two numbers as X and Y
 
-x = input("Enter the first number:")
-y = input("Enter the Second number:")
+x = input("Enter the Number:")
 
-#basic mathematical operations.....
-#Addition
-add = float(x) + float(y)
-print("the addition of numbers is:", add)
-#Subtraction
-sub = float(x) - float(y)
-print("the subtraction of numbers is:", sub)
-#Multiply
-mul = float(x) * float(y)
-print("the multiplication of numbers is:", mul)
-#Divide
-div = float(x) / float(y)
-print("the division of numbers is:", div)
+y= x/2
+#checking the number is even or odd
+if(y==0):
+  print(f"The Entered number {x} is even. ")
+else if:
+  print(f"The Entered number {x} is odd. ")
+else:
+  print("Invalid Input. Please try again")
