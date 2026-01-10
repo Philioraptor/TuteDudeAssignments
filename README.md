@@ -1,15 +1,16 @@
 # TuteDudeAssignments
 I have My Tasks saved in here
 
-#Task 1: Perform Basic Mathematical Operations
-Problem Statement: Write a Python program that does the following:
-1.  Takes two numbers as input from the user.
-2.  Performs the basic mathematical operations on these two numbers:
-	Addition
-	Subtraction
-	Multiplication
-	Division
-3.  Displays the results of each operation on the screen.
+Task 1: Check if a Number is Even or Odd
+Problem Statement:  Write a Python program that:
+1. 	Takes an integer input from the user.
+2. 	Checks whether the number is even or odd using an if-else statement.
+3. 	Displays the result accordingly.
+🧠 Logic Used
+
+x % 2 == 0 → Even number
+
+x % 2 != 0 → Odd number
 
 #Task 2: Create a Personalized Greeting
 Problem Statement: Write a Python program that:
