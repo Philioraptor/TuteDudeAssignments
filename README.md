@@ -1,16 +1,13 @@
 # TuteDudeAssignments
-I have My Tasks saved in here
+"""
+Task 1: Calculate Factorial Using a Function 
 
-Task 1: Check if a Number is Even or Odd
-Problem Statement:  Write a Python program that:
-1. 	Takes an integer input from the user.
-2. 	Checks whether the number is even or odd using an if-else statement.
-3. 	Displays the result accordingly.
-🧠 Logic Used
 
-x % 2 == 0 → Even number
+Problem Statement: Write a Python program that:
+1.   Defines a function named factorial that takes a number as an argument and calculates its factorial using a loop or recursion.
+2.   Returns the calculated factorial.
+3.   Calls the function with a sample number and prints the output.
 
-x % 2 != 0 → Odd number
 
 Task 2: Sum of Integers from 1 to 50 Using a Loop
  
